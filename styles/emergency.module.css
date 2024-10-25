@@ -1,0 +1,84 @@
+.maindiv{
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(#F6D9D7,#fff);
+  text-align: center;
+  padding-top: 100px;
+}
+
+.upperDiv{
+  width: 60%;
+  height: 15vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+
+.settingIcon{
+  height: 100px;
+  width: 100px;
+}
+
+.headingText h1{
+  font-size: 44px;
+  font-family: 'inter';
+  font-weight: bold;
+  color: black;
+}
+
+.headingText p{
+  font-size: 36px;
+  line-height: 43.57px;
+  color: black;
+}
+
+.lowerDiv{
+  width: 100%;
+  height: auto;
+  position: relative;
+  display: flex;
+}
+
+.leftDiv{
+  top: 0;
+  width: 50%;
+  height: auto;
+  left: 50px;
+  position: relative;
+}
+
+.leftDiv img{
+  width: 670px;
+  height: 700px;
+  margin-left: 60px;
+  position: absolute;
+  top:0;
+  margin-top: 91px;
+}
+
+.rightDiv{
+  width: 50%;
+  height: auto;
+  padding: 250px 40px 0 40px;
+  text-align: left;
+
+}
+
+.rightDiv p{
+  font-size:22px;
+  text-align: left;
+  padding-right: 140px;
+}
+
+.rightDiv h1{
+  font-size: 40px;
+}
+
+.faqboxx{
+  width: 60%;
+  height: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
